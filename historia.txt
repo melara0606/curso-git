@@ -1,2 +1,3 @@
 Para conocer la historia de los archivos
+---- 1 --- vim comando
 Para conocer los cambios
